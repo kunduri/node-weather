@@ -1,0 +1,10 @@
+h1 {
+    color : grey;
+}
+input {
+    border: 1px solid black;
+    margin : 2px;
+}
+button {
+    border-radius: 2px;
+}
